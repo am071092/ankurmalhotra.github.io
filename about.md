@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi, I'm Ankur!. I'm a software developer based in Wellington, New Zealand. 
+I've always had a passion for programming and consider myself very lucky to do what I do for a living. 
+I created this blog simply to jot down stuff I've learnt from researching exciting topics online or from working on some random weekend project.
